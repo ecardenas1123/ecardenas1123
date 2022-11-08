@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data engineering
 - 🌱 I’m currently learning about cloud computing
 - 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me ecardenasnicho@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/ecardenasnicho/ or ecardenasnicho@gmail.com
 
 <!---
 ecardenas1123/ecardenas1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
